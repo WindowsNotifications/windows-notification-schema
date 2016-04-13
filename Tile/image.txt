@@ -1,6 +1,6 @@
 <image
   src = string
-  placement? = "inline" | "background" | "peek"
+  placement? = "inline"
   alt? = string
   addImageQuery? = boolean
   hint-crop? = "none" | "circle"

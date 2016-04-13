@@ -1,0 +1,5 @@
+<image
+  src = string
+  placement = "peek"
+  alt? = string
+  addImageQuery? = boolean />
