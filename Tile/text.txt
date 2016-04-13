@@ -1,0 +1,31 @@
+<text
+  lang? = string
+  hint-style? = textStyle
+  hint-wrap? = boolean
+  hint-maxLines? = integer
+  hint-minLines? = integer
+  hint-align? = "left" | "center" | "right" >
+
+  <!-- text goes here -->
+
+</text>
+
+
+textStyle values...
+  caption
+  captionSubtle
+  body
+  bodySubtle
+  base
+  baseSubtle
+  subtitle
+  subtitleSubtle
+  title
+  titleSubtle
+  titleNumeral
+  subheader
+  subheaderSubtle
+  subheaderNumeral
+  header
+  headerSubtle
+  headerNumeral

@@ -1,0 +1,8 @@
+<image
+  src = string
+  placement? = "inline" | "background" | "peek"
+  alt? = string
+  addImageQuery? = boolean
+  hint-crop? = "none" | "circle"
+  hint-removeMargin? = boolean
+  hint-align? = "stretch" | "left" | "center" | "right" />

@@ -1,0 +1,10 @@
+<subgroup
+  hint-weight? = [0-100]
+  hint-textStacking? = "top" | "center" | "bottom" >
+
+  <!-- Child elements -->
+  ( text
+  | image
+  )*
+
+</subgroup>

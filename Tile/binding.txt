@@ -1,0 +1,29 @@
+<binding
+  template = tileTemplateName
+  lang? = string
+  baseUri? = anyURI
+  branding? = "none" | "logo" | "name" | "nameAndLogo"
+  addImageQuery? = boolean
+  contentId? = string
+  displayName? = string
+  hint-textStacking? = "top" | "center" | "bottom"
+  hint-overlay? = [0-100]
+  hint-presentation? = "photos" | "people" | "contact"
+  hint-lockDetailedStatus1? = string
+  hint-lockDetailedStatus2? = string
+  hint-lockDetailedStatus3? = string >
+
+  <!-- Child elements -->
+  ( image
+  | text
+  | group
+  )*
+
+</binding>
+
+
+tileTemplateName values...
+  TileSmall
+  TileMedium
+  TileWide
+  TileLarge

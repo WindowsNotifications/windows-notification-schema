@@ -1,0 +1,6 @@
+<group>
+
+  <!-- Child elements -->
+  subgroup+
+
+</group>
