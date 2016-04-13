@@ -1,0 +1,6 @@
+<tile>
+  
+  <!-- Child elements -->
+  visual
+  
+</tile>
